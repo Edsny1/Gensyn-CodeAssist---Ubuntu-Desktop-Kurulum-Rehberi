@@ -53,7 +53,7 @@ Terminal açın (Ctrl+Alt+T) ve aşağıdaki komutları çalıştırın:
 
 ```bash
 # 1. Kurulum scriptini indirin
-wget https://raw.githubusercontent.com/Edsny1/gensyn-codeassist-ubuntu/main/install.sh
+wget https://raw.githubusercontent.com/Edsny1/Gensyn-CodeAssist---Ubuntu-Desktop-Kurulum-Rehberi/refs/heads/Edsny/install.sh
 
 # 2. Scripti çalıştırılabilir yapın
 chmod +x install.sh
