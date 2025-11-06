@@ -1,0 +1,1 @@
+# Gensyn-CodeAssist---Ubuntu-Desktop-Kurulum-Rehberi
